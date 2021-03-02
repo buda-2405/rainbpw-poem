@@ -4,6 +4,8 @@ orange
 blue
 green
 yellow
+ponies
+indigo
 unicorn
 red
 these are are the colors of the rainbow
